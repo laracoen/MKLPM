@@ -8,3 +8,5 @@
 - Marijeta Obrvan
 - Marija Mrnjavac
 - Karlo Biondić
+# Demo
+https://huggingface.co/spaces/KarloB7/DemoOPJ

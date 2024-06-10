@@ -16,8 +16,8 @@ label2id =  {
   }
 # names of the files saved in step 2: Training
 
-model_file_name = "model.pkl"
-vectorizer_file_name = 'vectorizer.pk'
+model_file_name = "modelSVC.pkl"
+vectorizer_file_name = 'vectorizerSVC.pk'
 
 
 # load
